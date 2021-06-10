@@ -1,0 +1,19 @@
+.art{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.image img{
+    width: 200px;
+    height: 100%;
+    margin-top: 55%;
+    margin-left: 80%;    
+    margin-bottom: 5%;
+}
+.text{
+    color: white;
+    margin-left: 35%;
+    margin-right: 15%;
+    margin-top: 5%;
+}
